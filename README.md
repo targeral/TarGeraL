@@ -1,8 +1,7 @@
 <div align='center'>
   <p>A vimer! C++ programmer</p>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TwIStOy)
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TwIStOy)
 
 ----
 

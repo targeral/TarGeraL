@@ -1,10 +1,9 @@
 <div align='center'>
   <p>A vimer! C++ programmer</p>
+  <a href="https://github.com/TwIStOy">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TwIStOy" />
+  </a>
 </div>
-
-<a href="https://github.com/TwIStOy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TwIStOy" />
-</a>
 
 ----
 

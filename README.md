@@ -1,8 +1,8 @@
 <div align="center">
   <h1>A vimer! C++ programmer</h1>
   <div style="vertical-align:top">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=TwIStOy&count_private=true" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TwIStOy&hide=html&count_private=true&layout=compact" />
+    <img align="center" style="vertical-align:top" src="https://github-readme-stats.vercel.app/api?username=TwIStOy&count_private=true" />
+    <img align="center" style="vertical-align:top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TwIStOy&hide=html&count_private=true&layout=compact" />
   </div>
 </div>
 

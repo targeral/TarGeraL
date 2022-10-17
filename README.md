@@ -12,9 +12,7 @@
 
 <div align="center"><img src="https://raw.githubusercontent.com/TwIStOy/TwIStOy/output/github-contribution-grid-snake-dark.svg" /></div>
 
-<div align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=TwIStOy&theme=onedark&row=1&column=7&no-frame=true&no-bg=true" /></div>
 
 ----
 

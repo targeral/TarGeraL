@@ -1,13 +1,10 @@
 <div align="center">
   <h1>A vimer! C++ programmer! Rustacean!</h1>
-  <div>
-    <a style="vertical-align: top" herf="https://github.com/TwIStOy">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=TwIStOy&count_private=true" />
-    </a>
-    <a style="vertical-align: top" href="https://github.com/TwIStOy">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TwIStOy&hide=html&count_private=true&layout=compact" />
-    </a>
-  </div>
+</div>
+
+<div align="center">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=TwIStOy&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TwIStOy&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
 <div align="center"><img src="https://raw.githubusercontent.com/TwIStOy/TwIStOy/output/github-contribution-grid-snake-dark.svg" /></div>

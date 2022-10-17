@@ -3,6 +3,10 @@
 </div>
 
 <div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TwIStOy&theme=dark&hide_border=true" />
+</div>
+
+<div align="center">
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=TwIStOy&hide_title=true&hide_border=true&show_icons=true&line_height=21&theme=dracula" />
     <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TwIStOy&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dracula" />
 </div>
@@ -13,7 +17,8 @@
 
 ----
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=TwIStOy&repo=dotvim)](https://github.com/TwIStOy/dotvim)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=TwIStOy&repo=jk-build)](https://github.com/TwIStOy/jk-build)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=TwIStOy&repo=httl)](https://github.com/TwIStOy/httl)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin?username=TwIStOy&repo=dotvim&theme=dracula&show_owner=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin?username=TwIStOy&repo=httl&theme=dracula&show_owner=true&hide_border=true" />
+</div>
 

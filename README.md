@@ -23,3 +23,9 @@
 <img src="https://github-readme-stats.vercel.app/api/pin?username=TwIStOy&repo=httl&theme=dracula&show_owner=true&hide_border=true" />
 </div>
 
+----
+
+<div align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=TwIStOy&theme=react-dark" />
+</div>
+

@@ -1,6 +1,20 @@
-<div align="center">
-  <h1>A vimer! C++ programmer! Rustacean!</h1>
-</div>
+<!--
+  <div align="center">
+    <h1>A vimer! C++ programmer! Rustacean!</h1>
+  </div>
+-->
+
+<h1 align="center">Hi 👋, I'm Hawtian Wang</h1>
+<h3 align="center">A backend developer from China</h3>
+
+- 🌱 I’m currently learning **Swift, SwiftUI**
+
+- 📝 I regularly write articles on [https://twistoy.com](https://twistoy.com)
+
+- 💬 Ask me about **C++, Neovim**
+
+- 📫 How to reach me **hawtian.wang@twistoy.cn**
+
 
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TwIStOy&theme=dark&hide_border=true" />

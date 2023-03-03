@@ -34,8 +34,8 @@
 ----
 
 <div align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=targeral&repo=dotvim&theme=dracula&show_owner=true&hide_border=true" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=targeral&repo=httl&theme=dracula&show_owner=true&hide_border=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=targeral&repo=modern-js&theme=dracula&show_owner=true&hide_border=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=targeral&repo=worthless-toolkit&theme=dracula&show_owner=true&hide_border=true" />
 </div>
 
 ----
@@ -43,4 +43,3 @@
 <div align="center">
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=targeral&theme=react-dark" />
 </div>
-
